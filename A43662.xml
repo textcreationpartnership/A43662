@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the author of a late paper, entituled, A vindication of the divines of the Church of England, &amp;c. in defence of the history of passive obedience.</title>
+            <author>Hickes, George, 1642-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43662</idno>
+            <idno type="STC">Wing H1856</idno>
+            <idno type="STC">ESTC R34460</idno>
+            <idno type="EEBO-CITATION">14444840</idno>
+            <idno type="OCLC">ocm 14444840</idno>
+            <idno type="VID">102356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1060:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the author of a late paper, entituled, A vindication of the divines of the Church of England, &amp;c. in defence of the history of passive obedience.</title>
+                  <author>Hickes, George, 1642-1715.</author>
+                  <author>Fowler, Edward, 1632-1714. A vindication of the divines of the Church of England.</author>
+               </titleStmt>
+               <extent>[2], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Hicks.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102356:1" rendition="simple:additions"/>
+            <p>A LETTER TO THE AUTHOR Of a late Paper, Entituled, <hi>A Vindication of the DIVINES of the Church of</hi> ENGLAND, <hi>&amp;c.</hi>
+            </p>
+            <p>In DEFENCE of the HISTORY OF <hi>Paſſive Obedience.</hi>
+            </p>
+            <p>Printed in the Year, 1689.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:102356:2"/>
+            <head>Books Printed for <hi>Joſ. Hindmarſh</hi> in <hi>Cornhill.</hi>
+            </head>
+            <p>A Memorial to his Highneſs the Prince of <hi>Orange,</hi> in Relation to the Affairs of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> together with the Addreſs of the Presbyte<g ref="char:EOLhyphen"/>rian Party in that Kingdom, to his Highneſs, and ſome obſervations on that Addreſs by two Perſons of Quality.</p>
+            <p>Prerogative of Primogeniture, ſhewing that the Right of an Hereditary Crown, depends not upon Grace, Religion, <hi>amp;c.</hi> but only upon Birthright and Primogeniture, by <hi>David Jenner.</hi>
+            </p>
+            <p>A Diſcourſe of Monarchy, more particularly of the Imperial Crowns of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>Majeſtas Intermerata,</hi> or the Immortality of the King.</p>
+            <pb facs="tcp:102356:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:102356:3"/>
+            <pb n="1" facs="tcp:102356:3"/>
+            <head>A LETTER To the Author of a late Paper, Entituled, <hi>A Vindication of the Divines of the Church of</hi> Eng. <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">In Defence of the Hiſtory of PASSIVE OBEDIENCE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT is the good fortuned of ſome Books to meet with ſuch trivial Anſwers, as mightily advance the eſteem of them, and I aſſure you Yours to the Hiſtory of <hi>Paſſive Obedience,</hi> is ſo very trifling, that were it not for the real, and it may be particular concern you ſhew in it, on would think, the Author of the Hiſtory, or ſome of his friends had written it on purpoſe to ſet off his Book.</p>
+            <p>You paſs a ſevere Cenſure upon it in your firſt Para<g ref="char:EOLhyphen"/>graph, but in the ſecond you ſay, you ſhould not have ſo Cenſured it, had it come abroad <hi>ſome conſiderable time be<g ref="char:EOLhyphen"/>fore the firſt of</hi> Auguſt, <hi>but ſince it came out ſo late, you think it was the principal deſign of it to expoſe thoſe Divines who have taken the Oath.</hi> But <hi>Sir,</hi> if it be ſo eaſie a Task, as you make it in the third Paragraph to ſhew, that the New Oath of Allegiance, is <hi>no whit repugnant with the Do<g ref="char:EOLhyphen"/>ctrine of the moſt abſolute Paſſive Obedience:</hi> Why ſhould you think ſo learned an Author ſhould have ſo fooliſh a de<g ref="char:EOLhyphen"/>ſign? I cannot believe he could be ſo ſilly, as to think his Hiſtory could make the world believe, that <hi>the generality of our Divines are fallen under the guilt of Apoſtacy, and Per<g ref="char:EOLhyphen"/>jury,</hi> if indeed it be ſo eaſie to prove, that <hi>even thoſe who
+<pb n="2" facs="tcp:102356:4"/>have Skrew'd up the doctrine of Non-reſiſtance to the very higheſt peg,<note place="margin">Page 5. Page 55.</note> may lawfully take the Oath, and transfer their Al<g ref="char:EOLhyphen"/>legiance.</hi>
+            </p>
+            <p>But to let that paſs, <hi>Sir,</hi> how doth it appear, that this was the Author's deſign? It is hard to judge of mens In<g ref="char:EOLhyphen"/>tentions beyond what they delare themſelves; and when the Author ſaith expreſly, he wrote the <hi>Hiſtory</hi> for other reaſons, it was ſomewhat raſh and uncharitable in a Divine to ſay, that this was his apparent and principal deſign. He tells you plainly enought in his Preface, he wrote his Hiſtory againſt four ſorts of men. Firſt againſt thoſe, <hi>who ridiculed the doctrine of Paſſive Obedience:</hi> Secondly, againſt thoſe <hi>who affirmed it was a doctrine no older than Archbiſhop</hi> Laud: Thirdly againſt thoſe, <hi>who averr that the Church, and her Divines have taught it for their own Intereſts:</hi> and Fourthly againſt thoſe, who of late reject that Doctrine upon Popiſh Principles, that <hi>Power is originally in the People, and that the Foundation of all Government is laid in Compact,</hi> &amp;c. To all which he oppoſes the authority of the Church, and the concurrent judgment of her D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vines from the begin<g ref="char:EOLhyphen"/>ning of the Reformation; hoping to perſwade the world that ſo many pious and learned Men could not ſo unani<g ref="char:EOLhyphen"/>mouſly agree in a Error; or Preach, and Write in ſo many Reigns meerly to flatter their Princes, and gratifie their own Ambition.</p>
+            <p>This is the apparent deſign of that work, and I hope it might become a <hi>Chriſtian,</hi>
+               <note place="margin">Page. 4.</note> and <hi>Proteſtant,</hi> and <hi>member of our Church;</hi> and to make you believe that it was as piouſly, and charitably intended, as you ſay you would have hoped, had it <hi>come out before firſt of</hi> Auguſt: I aſſure you that it was deſigned by the Author to come out long before, and that the difficulty of getting of it Printed was the cauſe, why it came abroad ſo late. As ſuch a Book cannot be writ<g ref="char:EOLhyphen"/>ten in a day: ſo you muſt needs know it cannot be Printed, when and where the Author pleaſes; and you did very ill
+<pb n="3" facs="tcp:102356:4"/>to put that conceit of <hi>Expoſing, &amp;c.</hi> in peoples heads, who had it not been for you <hi>Vindication,</hi> would more generally have concluded from the <hi>Hiſtory;</hi> not that you were <hi>guilty of Apoſtacy or Perjury,</hi>
+               <note place="margin">Page 4.</note> but that you had taken the New Oath in ſome Senſe, or upon ſome Principles which in your own Conſciences you did believe conſiſtent with the doctrine of Non-reſiſtance, and your former Oaths.</p>
+            <p>This Inference will more naturally occur to the thoughts of thoſe, who read the Hiſtory, than the other, and if you had well thought of it, you might have ſpared the pains of your <hi>Vindication:</hi> Or if you had thought fit to give the world an account upon what Principle you had taken the Oath, you ought to have forborn ſuch unjuſtifiable reflections, as you have made upon that Author in the Plural Number; and not have ſet forth him, and I know not how many more, as ment that <hi>were content to Sacrifice the names of all, but an in<g ref="char:EOLhyphen"/>conſiderable number of their Brethren to their own reputation,</hi>
+               <note place="margin">Page 4.</note> 
+               <hi>that they may be thought the ſtanch men, and ſteddy to their Prin<g ref="char:EOLhyphen"/>ciples.</hi>
+            </p>
+            <p>I think the writing of the <hi>Hiſtory</hi> doth no more tend to the Sacrificing your names to their reputation, than the writing of many Books for the taking the Oath doth Sa<g ref="char:EOLhyphen"/>crifice them to yours. <hi>Your</hi> Books tempt ſome men to think they ſtand off out of Pride and ſullenneſs, and <hi>this,</hi> it may be, makes ſome think, that you have acted contrary to your Principles; but theſe opinions of men, which cannot be prevented, ought not to make you fall our, and treat one another, as you do. But as to thoſe Principles, to which you tauntingly ſay, they would <hi>be thought ſtanch,</hi> they are Church of <hi>England</hi> Principles, or they are not? if you could have proved they were not, then you had Written to purpoſe againſt the Hiſtory; but if they are, then I know not why this <hi>inconſiderable number</hi> may not have a very good Title to the <hi>honourable character</hi> of ſtanch and ſteddy Men, who chuſe to <hi>ſuffer</hi> rather than take an Oath; which after reading
+<pb n="4" facs="tcp:102356:5"/>
+               <hi>all,</hi> that you have publiſhed to perſwade Men to take it, they yet think repugoant to that doctrine, which you would not be thought to have deſerted.</p>
+            <p>But, good Sir, why <hi>inconſiderable number?</hi> may not the men be conſiderable, tho' the number is not; or are we to judge of the cauſe by the number, or of the number by the cauſe? you forget that your <hi>Metropolitan</hi> is one of this inconſiderable number, you forget the men of parts, learn<g ref="char:EOLhyphen"/>ing and probity that are in it alſo; nay you forget, who was the inconſiderable number in the reigns of <hi>Conſtantius,</hi> and <hi>Valens</hi> in the Empire, and of Queen <hi>Mary</hi> in <hi>England,</hi> You canot deny but the greater number were Apoſtates then, and therefore the greatneſs of the number cannot ſe<g ref="char:EOLhyphen"/>cure you, but that they may be ſo now.</p>
+            <p>But you ſay the Author of the Hiſtory <hi>hath blackned thoſe of the Clergy, who have taken the Oaths, and ſome of them by name with deſerting that Principle, which they have formerly publiſhed to the World.</hi> But Sir, it ſeems-to me he hath blackned none of them, unleſs they have blackned them<g ref="char:EOLhyphen"/>ſelves. He hath only produced a Cloud of Witneſſes for <hi>Paſſive Obedience,</hi> whereof many have, and ſome have not taken the Oath; and if there is a repugnance between that doctrine, and taking of it, as your <hi>Vindication</hi> makes men ſuſpect, then the <hi>Blackning,</hi> and <hi>Apoſtacy,</hi> about which you have made ſo much pother, ought not to be imputed to the Hiſtory, or its Author, but to the nature of the things.</p>
+            <p>The great endeavours the Clergy, and their Friends uſed to prevent the impoſing of the Oath, the great joy they ex<g ref="char:EOLhyphen"/>preſſed, at the alteration of the Bill in the Houſe of Lords, and the viſible reluctance with which many good, and lear<g ref="char:EOLhyphen"/>ned Men have ſince taken it, are ſufficient proofs that there is at leaſt a great ſeeming diſagreement between the doctrin and the Oath, and yet for all that it doth not follow that they who have taken the Oath have deſerted the doctrine, which as I hinted before, is your own raſh, invidious con<g ref="char:EOLhyphen"/>ſequence;
+<pb n="5" facs="tcp:102356:5"/>but that they have either deſerted it, or found a way of taking the Oath, which they judge conſiſtent with it, and that this latter is the caſe of moſt that have taken it, I will now ſhew.</p>
+            <p>Firſt, Then ſome learned men, who ſtood out very long, at laſt took it, becauſe they were perſwaded, that the Go<g ref="char:EOLhyphen"/>vernment allow'd them to take it in ſuch a limited and qua<g ref="char:EOLhyphen"/>lified ſenſe, as was not inconſiſtent with the doctrine, or their former Oaths, and theſe men are no deſerters.</p>
+            <p>Some of theſe again for the greater eaſe of their Conſci<g ref="char:EOLhyphen"/>ences, and preventing ſcandal, as they think, have taken the Oath with <hi>declarations,</hi> which abundantly ſecures them from all ſuſpicion of leaving their former Principles.</p>
+            <p>But others, who have taken the Oath in the higheſt, and moſt unlimited ſenſe, as I perceive you have done, have ge<g ref="char:EOLhyphen"/>nerally taken it upon ſuch Principles, as leave the doctrine of <hi>Paſſive Obedience,</hi> and all its concomitant doctrines ſecure. Thoſe Principles are chiefly three, <hi>Poſſeſſion, Abdication</hi> and <hi>Conqueſt,</hi> tho' the two laſt ſeem plainly inconſiſtent to ſome Mens underſtandings: for if the King, as you aſſert, was conquered, then he had good reaſon to fly, and by conſe<g ref="char:EOLhyphen"/>quence did not abdicate his Kingdom. Some, I confeſs, make a mixt Hypotheſis of two, or all theſe together, but whatever theſe mens Hypotheſes be, <hi>ſimple or mixt,</hi> if they be true, they will reconcile the taking of the new Oath with the old doctrines, and ſo they are ſecure from the ſcandal of Apoſtacy, whihc your <hi>Vindication</hi> more than the Hiſtory hath fixed upon them.</p>
+            <p>There are others again, who juſtify the taking of the Oath upon ſuch Principles, as ſeem indeed to overthrow the Doctine of Non-reſiſtance, and the Author of the Hiſtory I confeſs is very angry at them, for embracing the doctrine of <hi>Hobbs, Milton,</hi> and <hi>Parſons,</hi> and if he blackens any in his Book with the imputation of <hi>Apoſtacy,</hi> it is only theſe few men. They aſſert that power is originally in the people,
+<pb n="6" facs="tcp:102356:6"/>that the foundation of all Government is in compact, that the Crown of <hi>England</hi> is as conditional, as that of <hi>Poland;</hi> that a King falls from the Government when he endeavours to ſubvert the Conſtitution of it, and theſe are the ſanguine Caſuiſts, which boldly cut the Knot, which others of you find ſo difficult to unlooſe. It ſeems they find enough in the <hi>Monaſtick Hiſtorians</hi> to ſatisfy their Conſciences, and to abſolve them from the Laws of the Kingdom, and the do<g ref="char:EOLhyphen"/>ctrine of the Church, for they make King <hi>John</hi>'s reign the ſtandard of our Government, and that which hath always been accounted the Popery of the Kingdom the very conſti<g ref="char:EOLhyphen"/>tution of it, and tho' theſe mens Principles, if they be true, will bravely acquit them of Perjury, yet, Inconfeſs, I cannot acquit them from revolting from that doctrine, which ſome of them with a witneſs have preached, and publiſhed to the World.</p>
+            <p>
+               <hi>Conqueſt of the Kings without a Conqueſt of the Kindom</hi> is the bottom, upon which you have undertaken to reconcile that doctrine with taking the Oath. This is a nice ſubject for me to diſcuſs, but however I hope I may ask you two or three Queſtions upon it, without danger or offence.</p>
+            <p n="1">I. Whether in all the Caſuiſtical Writers about Conqueſt you have ever read, that ſuch a Revolution, as ours was brought, as an inſtance of Conqueſt? It is nothing like the uſual Examples of <hi>Alexander</hi>'s Conqueſt over the <hi>Perſians,</hi> the Conqueſt of the <hi>Iſraelites</hi> over the <hi>Canaanites,</hi> and that of the <hi>Romans</hi> over their Provinces.</p>
+            <p n="2">II. Whether they allow a King to be conquered, when his Kingdom is not conquered? and if they do, whether they allow a King ſo conquered can looſe his rights to the Crown and the allegiance of his People: King <hi>John</hi> of <hi>France</hi> did not looſe his right to the Crown, and his Peoples allegiance, when he was ſo conquered by the <hi>black Prince,</hi> and brought captive into <hi>England;</hi> nor <hi>Francis,</hi> when he was conquered ſo by <hi>Charles</hi> the Fifth</p>
+            <p n="3">
+               <pb n="7" facs="tcp:102356:6"/> III. Whether they allow ſubjects voluntarily to give a<g ref="char:EOLhyphen"/>way their allegiance, when they are not conquered? for what ſubjects give up to a foreign Prince without Conqueſt is freely Given.</p>
+            <p n="4">IV. Whether they determine a King to be conquered, as long as he is in a condition to proſecute his Right by War? for Conſcience will be apt to think that he is not yet con<g ref="char:EOLhyphen"/>quered enough, who is in a Condition to reſiſt.</p>
+            <p n="5">V. Whether allegiance can be due to a foreign Prince by vertue of Conqueſt, who never pretended to be a Conque<g ref="char:EOLhyphen"/>ror, but diſclaims the Rights of Conqueſt?</p>
+            <p n="6">VI. How far they extend the right of Conqueſt, and al<g ref="char:EOLhyphen"/>low the Conqueror to make uſe of it?</p>
+            <p>Theſe, and ſome other Queſtions, which I could ask you, muſt be clearly diſcuſſed, and ſtated, before you can pin the taking of the new Oath upon <hi>the Higheſt Peg of Non-reſiſt<g ref="char:EOLhyphen"/>ance,</hi> according to your Hypotheſis of Conqueſt.</p>
+            <p>From the ſeveral accounts, which I have here ſet down, of Mens taking the new Oath, and particularly from the in<g ref="char:EOLhyphen"/>ſufficiency of your own, you may ſee it is not ſo eaſie a task, as you would make it, to reconcile the taking of it with the old doctrine of the rights of ſoveraign Princes, and the du<g ref="char:EOLhyphen"/>ties of Non-reſiſtance. If it were ſo very eaſie, thoſe who take the Oath, could not take it in ſo many ſenſes, and upon ſo many different Principles, and ſince you are not ſatisfied with one anothers ſenſes, and Principles, you ought to have a great tenderneſs for thoſe who cannot take it in any of your diſagreeing ſenſes, nor upon any principle at all.</p>
+            <p>You do not ſeem to have conſidered this by your TEXT upon your Title Page.<note place="margin">
+                  <hi>Luke 17.<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> It is impoſ<g ref="char:EOLhyphen"/>ſible but that offen<g ref="char:EOLhyphen"/>ces will come, but wo unto him thro' whom they come.</note> Let us therefore a little conſider the doctrines in the <hi>Hiſtory,</hi> concerning the rights of ſoveraign Princes, and the duties of Non-reſiſtance. As to the firſt, we read enough to this purpoſe, that the rights of a Sove<g ref="char:EOLhyphen"/>raign are, that he is accountable to none but God, that he cannot be judged, depoſed, or deprived by his Subjects, nor
+<pb n="8" facs="tcp:102356:7"/>forfeit his Government to them, that they have no power over him, nor any right to take the Sword without Com<g ref="char:EOLhyphen"/>miſſion from him, and therefore when he is once King, he muſt continue to be ſo, till he dies, or freely and voluntari<g ref="char:EOLhyphen"/>ly reſigns. From hence it follows, that the Subject of ſuch a Soveraign Prince cannot diſpoſe of his Crown, nor renounce his Right to reign over them, nor transferr their natural and ſworn Allegiance from him without his con<g ref="char:EOLhyphen"/>ſent.</p>
+            <p>All theſe Duties are ſo plainly involved in the Doctrine of Non-reſiſtance, that I aſſure you there is no need of <hi>A<g ref="char:EOLhyphen"/>theiſtical and debauched Perſons</hi> to make the peoble diſcern them, and if any of them chance to be ſcandalized at the taking of the New Oath upon reading the <hi>Hiſtory,</hi> neither the Author nor the Doctrine of it are anſwerable for that, but only the <hi>Takers;</hi> to whom ſome will be provoked to think that Text more juſtly applicable, till you can prove, that the taking of the Oath is <hi>no whit</hi> repugnant to the doctrine of Non-reſiſtance, which for all your confidence you have not yet done, tho', I would to God you had done it with ſucceſs.</p>
+            <p>I hear there is an <hi>Apology</hi> a writing by way of Anſwer to the Hiſtory for taking of the Oath, and I proteſt to you, I heartily wiſh it all the ſucceſs that any Apology ever had. It is evident <hi>the Hiſtory</hi> if ſelf hath made it needful; for the Author of the view of Dr. <hi>M</hi>'s Sermon ſaith plainly, that <hi>your later Diſcourſes and Practices notoriouſly contradict</hi> your for<g ref="char:EOLhyphen"/>mer Doctrines, and it hath alſo put common Readers upon enquiry, how the Authors of ſuch Doctrines can conſiſtent<g ref="char:EOLhyphen"/>ly with their old principles take the new Oath?</p>
+            <p>I tell you this, becauſe you are ſo warm againſt your un<g ref="char:EOLhyphen"/>fortunate Brethren, who <hi>think themſelves not yet acquitted from their former Oaths.</hi> You <hi>do not ſtick to ſay they make Idols of their Kings:</hi> but I beſeech you to tell me, did they make an Idol of K.<hi>F.</hi> in all his Majeſty and Glory? Did
+<pb n="9" facs="tcp:102356:7"/>they not withſtand his Arbitrary power by ſuch means as the Law allows? Were they not <hi>Cloſeted, Suſpended,</hi> and <hi>Impriſoned,</hi> as well as others, and did they not boldly preach and write againſt his <hi>Idol</hi> Popery: and in ſhort, did they Ido lize him more than your ſelf? But once more, <hi>why make Idols</hi> of their Kings? The Doctrines to which <hi>they</hi> certainly ad<g ref="char:EOLhyphen"/>here, oblige them to all Soveraigns, as well as Kings. It is not Kings, as ſingle perſons, but as Supream, that they give that Veneration to, which you miſcal <hi>Idolizing;</hi> and in other Governments they would Idolize <hi>Senates</hi> and <hi>Conven<g ref="char:EOLhyphen"/>tions,</hi> with the ſame immutable Fiath and Allegiance, that they here <hi>Idolize</hi> Kings. I know none of them that <hi>Idolize</hi> the King more than the Law of the Kingdom doth. But however, Sir, I thank you for the Phraſe, I never read it before, but in <hi>Hugh Peter</hi>'s Tryal, who made the people his Idol, and ſaid the <hi>office of a King was dangerous, and uſe<g ref="char:EOLhyphen"/>leſs,</hi> which I am afraid many men ſtill ſay in their hearts.</p>
+            <p>Nay, you ſay, <hi>the world is chiefly beholden to them for ar<g ref="char:EOLhyphen"/>bitrary and tyrannical Kings,</hi> and if I had a mind to return upon you, I could as well ſay, that the world hath been beholden to others, for ſo many Covenants, Aſſociations and Rebellions. But, Sir, why muſt <hi>they</hi> be blamed for the <hi>Tyranny of Kings?</hi> Blame the Doctrine, if you pleaſe, and the Church which hath taught it, but let the men go free. If Kings ſin becauſe the grace of God abounds to<g ref="char:EOLhyphen"/>wards them, as his Vicegerents; the blame is to be laid, neither indeed on the Doctrine, nor thoſe who teach it, but on their own wicked hearts; and you would do well to conſider, whether we have not had, as many gracious Kings, under the preaching of it ſince the Reformation, as in any other Kingdom, where it is neither taught nor believed. The <hi>Fr.</hi> King was not made a Tyrant by it, for that is no Popiſh doctrine: and in like manner, it was King <hi>Jame</hi>'s zeal for Popery, and not this doctrine
+<pb n="10" facs="tcp:102356:8"/>which was the cauſe of his miſ doings.</p>
+            <p>You alſo tell them with great civility, <hi>that they are in<g ref="char:EOLhyphen"/>conſiderative to amazement of the Prior Obligation they are under to their Religion, and the Community of which they are Members.</hi> But Sir, in ſaying ſo, you ſeem inconſiderate to amazement your ſelf. Methinks the Hiſtory, if you never talked with any of them, might have convinced you, that they are not unmindful of the Obligation they are under to their Religion, ſince it is the ſenſe of that, and I believe that alone, which keeps them from Swearing. They believe there are ſome means and methods by which Religion will not be preſerved, and they think it a very diſhonourable, and prepoſterous way to preſerve it by Practices contrary to its Precepts: and if in this they are <hi>inconſiderative to amaze<g ref="char:EOLhyphen"/>ment;</hi> the Primitive Chriſtians in the decennial Perſecu<g ref="char:EOLhyphen"/>tion were ſo too.</p>
+            <p>As to the <hi>Community of which they are Members,</hi> they wiſh it, as well as you do, and underſtand the true intereſt of it, and are willing to promote it by all juſt and Legal ways; but then they believe that the <hi>Community</hi> neither diffuſive, nor repreſentative hath any right by Law, or Goſpel to di<g ref="char:EOLhyphen"/>ſtreſs the King by Arms, or transfer his Crown, and their own Allegiance without his conſent. They are alſo per<g ref="char:EOLhyphen"/>ſwaded that it tends more to the ſafety of the Community to bear a Tyrannical King, than to reſiſt his Tyranny, and unhinge the Government by force; and whether their Opinion, or the contrary is trueſt, they think Time, and Ex<g ref="char:EOLhyphen"/>perience have ſufficiently ſhewn. You are forced to ac<g ref="char:EOLhyphen"/>knowledge, that <hi>Salus Populi hath been abuſed to moſt wicked purpoſes,</hi> and I believe, you will alſo acknowledge that it hath been more abuſed in This Kingdom by the Subjects, than Non-reſiſtance by the Kings: and if you had under<g ref="char:EOLhyphen"/>ſtood it in Biſhop <hi>Sanderſon's</hi> ſenſe (who <hi>ſure was not in<g ref="char:EOLhyphen"/>conſiderate to amazement</hi>) that <hi>Salus Populi, the weſfare of
+<pb n="11" facs="tcp:102356:8"/>the people</hi> principally includes the preſervation of the Head, and his Rights: You would have been aſhamed to aſſert, that that Maxim deveſts K. <hi>J.</hi> of his Crown, and diſſolves our Obligation to him.</p>
+            <p>By theſe and ſome other paſſages you make me ſuſpect, that you do not believe the Doctrine of <hi>Paſſive Obedience,</hi> as the Church of <hi>England</hi> hath taught it, but that your <hi>Paſſive Obedience</hi> is ſuch an one as is conſiſtent with reſiſting of Soveraign Authority. What you alſo mean by <hi>the high<g ref="char:EOLhyphen"/>eſt peg of it,</hi> I cannot gueſs; for Non-reſiſtances is Non re<g ref="char:EOLhyphen"/>ſiſtance all over, and preſuppoſes Injuſtice, Oppreſſion, and Perſecution in all degrees; and I deſire you to conſider, whether under a limited Monarchy, there can be any occa<g ref="char:EOLhyphen"/>ſion for it, till Kings break their Oaths, and violate their Laws and exerciſe Arbitrary power. They muſt firſt in<g ref="char:EOLhyphen"/>vade the rights of the People, before they can be called to the exerciſe of this Self-denying Doctrine. We can ne<g ref="char:EOLhyphen"/>ver ſuffer till our Kings begin to rule in a way ſubverſive of the Government; nor ever ſuffer to any trying degree of Perſecution, till they ſet up illegal Courts or govern by the Sword.</p>
+            <p>But perhaps you will ſay, that ſingle perſons, or families ought to ſuffer but not the <hi>Community.</hi> To which I anſwer, that the <hi>Community</hi> is made up of ſingle perſons, and fami<g ref="char:EOLhyphen"/>lies, and when one perſon, or family, or Corporation ſuffers Illegally in a common Cauſe, the whole Community ſuf<g ref="char:EOLhyphen"/>fers with it, and therefore to what purpoſe hath this Do<g ref="char:EOLhyphen"/>ctrine been ſo carefully taught by our Church and her Divines, and You among the reſt, unleſs we are to ſubmit to our Kings when they turn Tyrants, and ſubvert the Laws.</p>
+            <p>Our Church and her Clergy, hath all along taught the doctrine of Suffering, with a particular eye to this very caſe, if God to puniſh us for our ſins ſhould ſuffer our Kings
+<pb n="12" facs="tcp:102356:9"/>to turn Tyrants, therefore we muſt either abſolutely diſ<g ref="char:EOLhyphen"/>claim it, which you are unwilling to do, or elſe ſuffer pati<g ref="char:EOLhyphen"/>ently againſt Law, when there is no other remedy but Arms, which neither our Religion, nor the Law, which makes it our Porperty, allow.</p>
+            <p>In the 9 &amp; 10. pag. you upbraid the Compilers of the Hiſtory, as you call a ſingle Author, with not aſſiſting K. <hi>James,</hi> and ſcoffingly ask them, <hi>Why they did not at least mind the People of their duty, and excite them to it.</hi> Pray Sir, did you do ſo, or no? If you did not, the ſame reaſon that will juſtifie, or excuſe you, will alſo juſtifie or excuſe them. Your Conſcience tells you, that neither you nor they then thought, that the King couid have loſt his Kingdoms, and I muſt further tell you, becauſe you ſeem to pinch them with your queſtion, that ſeveral of them did at their great hazard remind their People of the duty of <hi>Non reſiſtance,</hi> and particularly, the Author of this Book; For tho' you are pleaſed to tell them, that <hi>hazard ought not to diſcourage Miniſters from a Neceſſary duty,</hi> yet I muſt tell you, that perhaps <hi>an Apoſtle</hi> is not bound to run the danger of ſuch hazard, and to ſo little purpoſe. You cannot have forgot the rage and madneſs of the Rabble all over the Kingdom at that time, and when the Papiſts ſhall equally upbraid both ſides, as you upbraid one with <hi>ſilently looking on,</hi> then I believe, you will think your common confidence, that the King would not ſuffer by your ſilence, and the terror of the <hi>Mob,</hi> good topicks of excuſe.</p>
+            <p>I find you <hi>p.</hi> 13. reviving the old diſtinction betwixt the Kings <hi>political capacity,</hi> and his <hi>perſonal intereſt,</hi> or perſon, and thereby implying, as the <hi>Spencers</hi> did in <hi>Edward</hi> the Se<g ref="char:EOLhyphen"/>cond's time, that it is lawful for the People to ſeparate his Perſon from his Power, and govern in default of him, when he doth not govern according to Law. But then I muſt tell you, that this Doctrine was ſolemnly condemned by
+<pb n="13" facs="tcp:102356:9"/>two Parliaments, one in <hi>Edward</hi> the Second, and the other in <hi>Edward</hi> the Third's time. It was alſo revived 50. Years ago, and as ſolemnly condemened, tho' not expreſly, yet in effect by two or three Acts of Parliament ſince the Reſtau<g ref="char:EOLhyphen"/>ration, and I pray you to tell me, as a Divine, is it not the King's perſon his <hi>natural perſon,</hi> that is anointed, and which we are bound to honour, and over which the Law tells us we have no coercive power, and whoſe death it makes High Treaſon to compaſs, or imagine, as alſo to take up Arms againſt him, and which, in ſhort, was depoſed in <hi>Richard</hi> the Second, and murdered in <hi>Charles</hi> the Firſt. Give me leave alſo to tell you, that you run from your Argument of Conqueſt, in the attempt you have made to abſolve us from our old Oath of Allegiance, with this di<g ref="char:EOLhyphen"/>ſtinction, and the <hi>welfare of the People,</hi> which is called the <hi>higheſt Law.</hi> If Conqueſt will do, what need of this The<g ref="char:EOLhyphen"/>ory, and if this will do, what need of that? but you do wiſely in having two Strings for your Bow.</p>
+            <p>You amaze me with your <hi>amazing providences,</hi> pag. 14. Major-General <hi>Harriſon</hi> argued at his Tryal juſt ſo, and truly that way of arguing, tho' now again in faſhion, be<g ref="char:EOLhyphen"/>comes a <hi>Turk</hi> better than a Chriſtian, and a <hi>Fifth-Monarchy</hi> man much better than a Church of <hi>England</hi> Divine. Had a Novice in Divinity argued ſo, it might have been excu<g ref="char:EOLhyphen"/>ſable, but there is no excuſe for ſuch as you, who it may be ſaw the amazing providences 50. Years ago, and who muſt needs know, that God permits many amazing things, which he doth not approve: For as he lets his Sun ſhine on the Good and on the Evil: So he gives amazing ſucceſſes to bad Princes and Cauſes (witneſs the<note n="*" place="bottom">According to that of the <hi>French</hi> Poet.
+<q xml:lang="lat">
+                     <l>Vna dies B—os. Burgundos hebdomas una.</l>
+                     <l>Vna Lotharigos Luna. Quid annus eris?</l>
+                  </q>
+               </note> 
+               <hi>French</hi> victories) as well as to the Good.</p>
+            <pb n="14" facs="tcp:102356:10"/>
+            <p> I ſhould remark ſome other Paſſages in your Book, but that to uſe your own phraſe, there may be hazard in touch<g ref="char:EOLhyphen"/>ing of them. In anſwer to one of them, I could refer you to an excellent ſaying, in Dr. B.'s anſwer to <hi>Parl. Pac.</hi> and whereas you ſuppoſe in your laſt Paragraph, that all, who have taken the New Oath, have transferred their Allegi<g ref="char:EOLhyphen"/>ance, as you have done, I muſt tell you, if you know it not before, that they do not think ſo. And I beſeech you to conſider, that the reaſon why ſo many good Men ſtand out, is not that they are fond of K. <hi>James,</hi> or expect more than you from him, but becauſe they cannot transfer their Alle<g ref="char:EOLhyphen"/>giance with a quiet Conſcience, but when God ſhall take away that which <hi>lets,</hi> then they will readily transfer it, and become as good Liege-Subjects, as you can deſire them to be.</p>
+            <p>In the mean time, Sir, I hope you, and all good Men will pity the <hi>inconſiderable number,</hi> whoſe Conſciences direct them againſt their intereſts, and <hi>inclinations.</hi> Two of them, Learned, and Holy Biſhops, have declared on their Death-Beds, that if Death had been the Penalty of not taking the Oath, they muſt have offered their Lives to redeem their Conſciences. They were good Men, and good reaſoners too, and I hope their declarations, if they were made pub<g ref="char:EOLhyphen"/>lick, would ſatisfie honeſt Men of all Perſwaſions, that it is neither pride, nor peeviſhneſs, nor any other evil paſſion, nor yet any worldly hopes, or expectations, but a full per<g ref="char:EOLhyphen"/>ſwaſion, or juſt fear of Perjury that keeps others alſo from taking the Oath.</p>
+            <p>I alſo hope it will be conſidered of what Church they are Miniſters, what an Ornament many of them in their reſpective Relations have been unto it, how conſtant they were to their Profeſſion in the late time of tryal, and how ſtoutly they ſtood with their Brethren in the breach. Theſe things, and <hi>the hardneſs of their Caſe,</hi> ſeem to call for pity
+<pb n="15" facs="tcp:102356:10"/>from all good Church-men, both among the Clergy,<note place="margin">Mr. B<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>un in a late piece intitled, <hi>the Doctrine of Non-reſiſt<g ref="char:EOLhyphen"/>ance,</hi> &amp;c. p. 24.</note> who pretends to be a good Church-man, ſaith, he hopes <hi>they will not meet with much compaſſion,</hi> that is in his <hi>figure,</hi> with none at all. He hopes it, becauſe they are <hi>blind,</hi> and <hi>wilful men,</hi> but if he indeed be the Church-man he pretends to be, I hope he will repent before his next <hi>offering,</hi> both of the <hi>raſhneſs</hi> of his judgment, and the <hi>uncharitableneſs</hi> of his wiſh. By what principle of the Church of <hi>England</hi> will he juſtify himſelf for ſitting in judgment upon his Teachers, and paſ<g ref="char:EOLhyphen"/>ſing ſentence of <hi>wilful blindneſs</hi> upon them, to make them odious to the People? Is this conſiſtent with the reverence which the Church teaches to be due to the Fathers and Pa<g ref="char:EOLhyphen"/>ſtors of it? Is it conſiſtent with Chriſtian Chrity to treat them as the <hi>Pagans</hi> treated their Predeceſſors, the Apoſtles, and Presbyters, when they dreſſed them up in the Skins of Beaſts, and expoſed them as the filth, and off ſcourings of the World? What have they done contrary to the Chruch<g ref="char:EOLhyphen"/>es Doctrine, or the Example of their Predeceſſors, or their own Principles to deſerve this uſage? How comes he, who not long ſince thought many of them ſo venerable for their Candor, Learning, and <hi>Judgment,</hi> now to proclaim them <hi>blind,</hi> and <hi>wilful,</hi> and to wiſh ſo much evil to them, to whom he much good? If they are in an error, it would have much better become his character, and pretenſions, to have excuſed it, and apologized for them, and inſtead of making their Friends their Enemies, to have made their Enemies their Friends. Their puniſhment is like to be grievous enought without any acceſſion, he needed not have added affliction to the miſerable, but they truſt in God, who is able to do them more good, than he can do them hurt, and ſince he hath ſo frankly tole the World, he hath no bowels for them, he may be ſure none of theſe
+<pb n="16" facs="tcp:102356:11"/>
+               <hi>blind men</hi> will ask Break at his Door. But as <hi>blind</hi> as he thinks them, they can <hi>look</hi> unto Jeſus the Author, and fi<g ref="char:EOLhyphen"/>niſher of their faith, and according to his Precepts, and Ex<g ref="char:EOLhyphen"/>ample, pray for thoſe, that deſpitefully uſe them, and for him in particular, that God may have more <hi>compaſſion</hi> for him, than it ſeems he hath, or is willing others ſhould have for them. All the ground of his diſpleaſure againſt them is, that they are afraid of <hi>Perjury,</hi> a Sin, which he himſelf ſets forth, as moſt deteſtable and dreadful, in the IX. Section of his <hi>Juſtice of Peace,</hi> whither I refer him, and the Readers, eſpecially thoſe with whom he is ſo an<g ref="char:EOLhyphen"/>gry for not taking the Oath.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102356:11"/>
+            <pb facs="tcp:102356:12" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
